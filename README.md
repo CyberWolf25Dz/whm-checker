@@ -6,4 +6,4 @@ A lightweight tool for administrators to verify WHM account login status and pan
 - Detect invalid accounts
 - Fast multi-check support
 ## Download
-👉 [Click here to download the latest version](https://github.com/USERNAME/REPO/releases/latest)
+👉 [Click here to download the latest version](https://github.com/CyberWolf25Dz/whm-checker/releases/latest)
